@@ -1,0 +1,38 @@
+[2026-05-27T07:27:40.699Z] Loaded extension preferences for tuitube: {
+  downloadPath: "/Users/vladislavageenko/Documents/tuitube_downloads",
+  homebrewPath: "/opt/homebrew/bin/brew",
+  ytdlPath: "/opt/homebrew/bin/yt-dlp",
+  ffmpegPath: "/opt/homebrew/bin/ffmpeg",
+  ffprobePath: "/opt/homebrew/bin/ffprobe",
+  autoLoadUrlFromClipboard: false,
+  autoLoadUrlFromSelectedText: false,
+  enableBrowserExtensionSupport: false,
+  forceIpv4: false,
+}
+[2026-05-27T07:27:40.699Z] Loaded extension preferences for tuitube: {
+  downloadPath: "/Users/vladislavageenko/Documents/tuitube_downloads",
+  homebrewPath: "/opt/homebrew/bin/brew",
+  ytdlPath: "/opt/homebrew/bin/yt-dlp",
+  ffmpegPath: "/opt/homebrew/bin/ffmpeg",
+  ffprobePath: "/opt/homebrew/bin/ffprobe",
+  autoLoadUrlFromClipboard: false,
+  autoLoadUrlFromSelectedText: false,
+  enableBrowserExtensionSupport: false,
+  forceIpv4: false,
+}
+[2026-05-27T07:27:40.699Z] Loaded extension preferences for tuitube: {
+  downloadPath: "/Users/vladislavageenko/Documents/tuitube_downloads",
+  homebrewPath: "/opt/homebrew/bin/brew",
+  ytdlPath: "/opt/homebrew/bin/yt-dlp",
+  ffmpegPath: "/opt/homebrew/bin/ffmpeg",
+  ffprobePath: "/opt/homebrew/bin/ffprobe",
+  autoLoadUrlFromClipboard: false,
+  autoLoadUrlFromSelectedText: false,
+  enableBrowserExtensionSupport: false,
+  forceIpv4: false,
+}
+[2026-05-27T07:27:40.699Z] pushing WrappedComponent
+[2026-05-27T07:27:40.699Z] replacing _w
+[2026-05-27T07:27:40.699Z] pushed WrappedComponent
+[2026-05-27T07:27:40.714Z] auto-focusing first field: «r0»
+[2026-05-27T07:28:51.761Z] Auto-executing first action: Download Video
