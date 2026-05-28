@@ -5,4 +5,4 @@ def is_valid_order(order):
           return False
       if not isinstance(order["price"], (int, float)) or order["price"] <= 0:
           return False
-      return "сломано"
+      return True
