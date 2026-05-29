@@ -21,7 +21,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pytest requests
+          pip install pytest requests aiohttp asyncio pytest-asyncio psycopg2-binary
 
       - name: Run tests
         run: |
